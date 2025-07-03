@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@import "tailwindcss/preflight" layer(base);
+@import "tailwindcss/utilities" layer(utilities);
+
+/* Custom styles */
+@layer utilities {
+  /* Your custom utilities here */
+}
+
+/* Optional: Custom base styles */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply antialiased bg-background text-foreground;
+  }
+}
