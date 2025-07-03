@@ -15,7 +15,7 @@ export default function Hero() {
           {/* Text content - comes first in DOM but displayed second on mobile */}
           <div className="md:w-1/2 space-y-6 text-center md:text-left mt-10 md:mt-0">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white">
-              Hi, I'm <span className="text-blue-600 dark:text-blue-400">Aditya Gour</span>
+              Hi, I am <span className="text-blue-600 dark:text-blue-400">Aditya Gour</span>
             </h1>
 
             <h2 className="text-2xl sm:text-3xl text-gray-600 dark:text-gray-300 font-medium">

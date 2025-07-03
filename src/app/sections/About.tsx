@@ -69,7 +69,7 @@ export default function About() {
         <div className="max-w-4xl mx-auto">
           <h3 className="text-2xl font-semibold mb-4">Who I Am</h3>
           <p className="text-gray-600 mb-6">
-            I'm passionate Full-Stack Developer specializing in modern web applications with React.js/Next.js and Node.js. I build dynamic, user-friendly experiences while expanding my expertise in scalable backend systems. Eager to innovate in web development, SaaS, and emerging tech. 
+            I am passionate Full-Stack Developer specializing in modern web applications with React.js/Next.js and Node.js. I build dynamic, user-friendly experiences while expanding my expertise in scalable backend systems. Eager to innovate in web development, SaaS, and emerging tech. 
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
