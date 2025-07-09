@@ -8,7 +8,7 @@ export default function Contact() {
           Get In <span className="text-indigo-600">Touch</span>
         </h2>
         <p className="text-gray-600 text-center max-w-2xl mx-auto mb-12">
-          Have a project in mind or want to discuss potential opportunities? Feel free to reach out!
+          Havee a project in mind or want to discuss potential opportunities? Feel free to reach out!
         </p>
         
         <div className="flex flex-col md:flex-row gap-12">
